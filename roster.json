@@ -1,0 +1,37 @@
+{
+  "project": "사제동행 체육활동 축구 대진표 & 개인별 승점 관리 시스템",
+  "lastUpdated": "2026-10-29",
+  "description": "깃허브(GitHub Pages)에 배포 시 모든 사용자가 접속했을 때 기본으로 로드되는 최종 명단 및 4개 팀 설정 파일입니다.",
+  "teams": {
+    "1": { "id": 1, "name": "1팀 (열정 Red)", "color": "red" },
+    "2": { "id": 2, "name": "2팀 (지혜 Blue)", "color": "blue" },
+    "3": { "id": 3, "name": "3팀 (화합 Green)", "color": "green" },
+    "4": { "id": 4, "name": "4팀 (희망 Yellow)", "color": "yellow" }
+  },
+  "roster": [
+    { "id": "p_1", "no": 1, "grade": "3학년", "name": "김주원", "team": 1 },
+    { "id": "p_2", "no": 2, "grade": "3학년", "name": "박보성", "team": 2 },
+    { "id": "p_3", "no": 3, "grade": "3학년", "name": "김승민", "team": 3 },
+    { "id": "p_4", "no": 4, "grade": "3학년", "name": "홍혜준", "team": 4 },
+    { "id": "p_5", "no": 5, "grade": "3학년", "name": "김준서", "team": 1 },
+    { "id": "p_6", "no": 6, "grade": "3학년", "name": "정원석", "team": 2 },
+    { "id": "p_7", "no": 7, "grade": "3학년", "name": "박희동", "team": 3 },
+    { "id": "p_8", "no": 8, "grade": "3학년", "name": "이근호", "team": 4 },
+    { "id": "p_9", "no": 9, "grade": "3학년", "name": "김민준", "team": 1 },
+    { "id": "p_10", "no": 10, "grade": "3학년", "name": "노윤제", "team": 2 },
+    { "id": "p_11", "no": 11, "grade": "2학년", "name": "김수종", "team": 3 },
+    { "id": "p_12", "no": 12, "grade": "2학년", "name": "한서진", "team": 4 },
+    { "id": "p_13", "no": 13, "grade": "2학년", "name": "장승헌", "team": 1 },
+    { "id": "p_14", "no": 14, "grade": "2학년", "name": "신호준", "team": 2 },
+    { "id": "p_15", "no": 15, "grade": "2학년", "name": "손민식", "team": 3 },
+    { "id": "p_16", "no": 16, "grade": "2학년", "name": "우정원", "team": 4 },
+    { "id": "p_17", "no": 17, "grade": "2학년", "name": "정찬영", "team": 1 },
+    { "id": "p_18", "no": 18, "grade": "2학년", "name": "김서완", "team": 2 },
+    { "id": "p_19", "no": 19, "grade": "2학년", "name": "나시온", "team": 3 },
+    { "id": "p_20", "no": 20, "grade": "2학년", "name": "조운찬", "team": 4 },
+    { "id": "p_21", "no": 21, "grade": "교사", "name": "김선생", "team": 1 },
+    { "id": "p_22", "no": 22, "grade": "교사", "name": "이선생", "team": 2 },
+    { "id": "p_23", "no": 23, "grade": "교사", "name": "박선생", "team": 3 },
+    { "id": "p_24", "no": 24, "grade": "교사", "name": "정선생", "team": 4 }
+  ]
+}
