@@ -1,6 +1,6 @@
 {
   "project": "사제동행 체육활동 축구 대진표 & 개인별 승점 관리 시스템",
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "description": "GitHub API를 통해 다이렉트 저장된 최종 명단 및 4개 팀 설정",
   "teams": {
     "1": {
